@@ -1,0 +1,95 @@
+body{
+    font-family: 'Arima', cursive;
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0;
+
+}
+
+h1{
+    font-size: 60px;
+    
+}
+h2{
+    font-size: 40px;
+}
+.color-span{
+    color: chocolate;
+}
+
+.flexible-display{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    margin-bottom: 40px;
+}
+.top-banner{
+    margin-bottom: 100px;
+}
+
+#top-left{
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.second-banner {
+    background-color: blanchedalmond; 
+    border-radius: 20px; 
+}
+
+.button{
+    background-color: chocolate;
+    color: aliceblue;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 40px;
+    padding: 20px 40px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.second-para{
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.recipes-para{
+    text-align: center;
+    padding: 80px;
+}
+
+.recipes-title{
+    padding: 50px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    margin: 50px;
+}
+
+.last-section{
+    display: flex;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.one-third{
+    width: 33.3%;
+}
+
+footer{
+    background-color: lightslategrey;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 0;
+}
